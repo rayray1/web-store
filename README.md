@@ -1,6 +1,6 @@
-# web-store
+# web-store 
 
-> mini e-commerce project)
+> mini e-commerce project built with vue.js
 
 ## Build Setup
 
